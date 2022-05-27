@@ -1,7 +1,6 @@
 ### Oi, sou a Laise Figueira 
 
-- 🔭 Hoje estou trabalhando com Java
-- 🌱 Estou estudando Spring
+- 🌱 Estou estudando Front End
 - 😄 Pronomes: ela / dela
 - ⚡ Fato engraçado: Bióloga que tem medo de aranha
 

@@ -1,6 +1,6 @@
 ### Oi, sou a Laise Figueira 
 
-- 🌱 Estou estudando Front End
+- 🌱 Desenvolvedora Web Java Full Stack em formação
 - 😄 Pronomes: ela / dela
 - ⚡ Fato engraçado: Bióloga que tem medo de aranha
 
